@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 - Add proper readme.
 - Create functionality to allow user to customize colors
 - Create functionality to generate css code of selected background color
+- Make Responsive
